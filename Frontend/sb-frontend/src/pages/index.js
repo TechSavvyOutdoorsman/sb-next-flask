@@ -5,6 +5,8 @@ export default function Home({ data }) {
   console.log(data)
 
 
+  
+
   return (
     <div>
       <div className='flex justify-between items-center flex-col w-full min-h-[70vh] md:min-h-[90vh] pt-[4rem] md:pt-[8rem] px-8 mb-[10rem]'>
